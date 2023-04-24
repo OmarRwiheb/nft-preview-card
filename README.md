@@ -24,10 +24,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshots
-
-![screenshot of my solution](design/active-states.jpg)
-![screenshot of my solution](design/desktop-design.jpg)
 ![screenshot of my solution](design/mobile-design.jpg)
+![screenshot of my solution](design/desktop-design.jpg)
+![screenshot of my solution](design/active-states.jpg)
+
+
 
 ### Links
 
