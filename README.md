@@ -26,6 +26,8 @@ Users should be able to:
 ### Screenshots
 
 ![screenshot of my solution](design/active-states.jpg)
+![screenshot of my solution](design/desktop-design.jpg)
+![screenshot of my solution](design/mobile-design.jpg)
 
 ### Links
 
